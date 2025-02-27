@@ -7,7 +7,7 @@ import org.junit.Test;
 import onlineTestProcessor.SystemManager;
 
 
-public class Tests {
+public class TestsForThisProrgam {
 
 //	@Test
 //	public void test() {
